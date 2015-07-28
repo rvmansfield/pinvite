@@ -1,0 +1,3 @@
+This project aims to create a simple Evite like webapp that you can host on your own web server. This means you have more control over it to configure the look-and-feel and integrate it with the rest of your site. pInvite will be ideal for a small community like gaming clans, school or college groups, eGroups, sporting leagues etc.
+
+More importantly, you are not giving email addresses to a third-party.
